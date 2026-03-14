@@ -1,0 +1,4 @@
+:6000 {
+	root * /app/data/_solveit_static_site
+	file_server
+}
