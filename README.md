@@ -1,6 +1,11 @@
 # SolveIt Slash Commands
 
-Coding agent harnesses are essentially context engineering tools. They offer different affordances for injecting context into the AI: **slash commands** are direct, human-initiated, on-demand injection; **skills** are on-demand for the agent; **conditional instructions** provide code-based deterministic injection; and **always-on files** like `CLAUDE.md` or `agents.md` are persistent background context.
+Coding agent harnesses are essentially context engineering tools with different affordances for injecting context into the AI:
+
+- **Slash commands** — direct, human-initiated, on-demand injection
+- **Skills** — on-demand for the agent
+- **Conditional instructions** — code-based deterministic injection
+- **Always-on files** like `CLAUDE.md` or `agents.md` — persistent background context
 
 SolveIt encourages you to engineer the agent's context in a hands-on way, which makes slash commands a natural fit — you're likely to have things you want to tell the agent to do repeatedly.
 
